@@ -1,0 +1,81 @@
+{
+  "project_info": {
+    "project_number": "1000878714482",
+    "firebase_url": "https://intelligent-bus-system-56e8d.firebaseio.com",
+    "project_id": "intelligent-bus-system-56e8d",
+    "storage_bucket": "intelligent-bus-system-56e8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000878714482:android:d7be8506cae5cfde",
+        "android_client_info": {
+          "package_name": "com.example.com.tanmay.intelligentbusstop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000878714482-f4gs1vqc39iefkje9340irgiiviuerb3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1000878714482-f4gs1vqc39iefkje9340irgiiviuerb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzL6BW186X5Ir6YcYSRy2bnWGvKtYFIr4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000878714482:android:3054fea114e74259",
+        "android_client_info": {
+          "package_name": "com.example.tanmay.intelligentbusstop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000878714482-f4gs1vqc39iefkje9340irgiiviuerb3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1000878714482-f4gs1vqc39iefkje9340irgiiviuerb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzL6BW186X5Ir6YcYSRy2bnWGvKtYFIr4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
